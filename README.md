@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Arain</h1>
-<h3 align="center">Aspiring Data Analyst / Data Scientist | ML & AI Enthusiast</h3>
+<h3 align="center"> Data Analyst / Data Scientist | ML & AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Final+Year+Student;Machine+Learning+%7C+Statistical+Analysis;Building+AI-Powered+Web+Apps;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
