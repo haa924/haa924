@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Arain</h1>
-<h3 align="center"> Data Analyst / Data Scientist | ML & AI Enthusiast</h3>
+<h3 align="center">Data Analyst / Data Scientist | ML & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+Final+Year+Student;Machine+Learning+%7C+Statistical+Analysis;Building+AI-Powered+Web+Apps;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=BS+Data+Science+Graduate+(2026);Machine+Learning+%7C+Statistical+Analysis;Building+AI-Powered+Web+Apps;Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 class Shahzaib:
     def __init__(self):
         self.name = "Shahzaib Arain"
-        self.role = "Data Science Student (Graduate-2026) @ QUEST"
+        self.role = "BS Data Science Graduate (2026) @ QUEST"
         self.location = "Hyderabad, Sindh, Pakistan"
         self.focus_areas = ["Machine Learning", "Data Analysis", "Data Visualization"]
         self.currently_learning = ["Deep Learning", "Advanced NLP", "MLOps"]
@@ -37,7 +37,7 @@ me = Shahzaib()
 me.say_hi()
 ```
 
-- 🎓 Pursuing **BS Data Science (2026)** at **Quaid-e-Awam University of Engineering, Science & Technology (QUEST)**
+- 🎓 Graduated with a **BS in Data Science (2026)** from **Quaid-e-Awam University of Engineering, Science & Technology (QUEST)**
 - 🔭 Currently working on AI-powered web apps and end-to-end data analytics projects
 - 📝 Co-author of a research paper accepted at **iCoMET 2026 Conference** (Paper ID #170)
 - 🎨 I use **Canva** for data storytelling and reporting
