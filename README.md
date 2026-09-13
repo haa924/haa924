@@ -24,7 +24,7 @@
 class Shahzaib:
     def __init__(self):
         self.name = "Shahzaib Arain"
-        self.role = "Data Science Student (Final Year) @ QUEST"
+        self.role = "Data Science Student (Graduate-2026) @ QUEST"
         self.location = "Hyderabad, Sindh, Pakistan"
         self.focus_areas = ["Machine Learning", "Data Analysis", "Data Visualization"]
         self.currently_learning = ["Deep Learning", "Advanced NLP", "MLOps"]
@@ -117,9 +117,9 @@ me.say_hi()
 
 - [x] Deploy first AI web app (OralScanAI)
 - [x] Get first research paper accepted (iCoMET 2026)
-- [ ] Complete BS Data Science (2026)
+- [x] Complete BS Data Science (2026)
 - [ ] Master Deep Learning & NLP
-- [ ] Contribute to an open-source ML project
+- [x] Contribute to an open-source ML project
 - [ ] Land a Data Analyst / Data Scientist role
 
 ---
